@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "gh-pages-app",
   "resources": {
-    "hash": "sha256-HI+bKNsNDlFDMfRmeefixtj9fFh//pQw2f+AL7B+ijw=",
+    "hash": "sha256-jQj0qMVeoj3468/SwSoS7XCyN27HHdbD3kn0XCpIEQU=",
     "jsModuleNative": {
       "dotnet.native.8.0.17.qnqnu9is6n.js": "sha256-YyxJV6dv935qHoQAmjB+2qRjHeGpm4SyWxE0T/KvsIE="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "gh-pages-app.wasm": "sha256-33rwmpQuhtgljFX08QE7PWkMuMGqvQ3gAhWNICggD8s=",
+      "gh-pages-app.wasm": "sha256-F35nQEu8tT4uNL6wTmVbTtlHdcC8A51JTCbxXmZbTMM=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-CAiwmWN5PbK036IonTdbQpQ89ErTzrpAKW2kHlZqna4=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-D6kHS5eTIMZLGN4gvPnh0VXbMNNK4AsaFqX0UPn9Me4=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-DUfY8NXqMGVAsIoPZOG+HlapxMZketT/OD9D/CcwEOM=",
