@@ -1,0 +1,2 @@
+C:\Development\_GitHub\gh-pages-app\build\emcc-props.json
+C:\Development\_GitHub\gh-pages-app\build\web.config
